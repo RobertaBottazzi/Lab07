@@ -1,0 +1,14 @@
+-INPUT: 
+	1)list<PowerOutage>
+	2)numero massimo di anni years
+	3)numero massimo di ore hours
+-SOLUZIONE PARZIALE:
+	lista di PowerOutages con massimo anni e ore
+-SOLUZIONE TOTALE:
+	lista di PowerOutages con massimo anni e ore e persone
+-LIVELLO RICORSIONE:
+	
+-CONDIZIONE TERMINAZIONE:
+	1) raggiunto il numero massimo di ore
+	2) trovato il massimo di persone
+	3) raggiunto il numero massimo di anni

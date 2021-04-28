@@ -55,6 +55,5 @@ public class Nerc {
 		builder.append(value);
 		return builder.toString();
 	}
-	
 
 }
